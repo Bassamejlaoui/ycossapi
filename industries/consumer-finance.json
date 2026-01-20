@@ -866,9 +866,9 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1510196648,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Machine Learning",
-      "AI"
+      "Machine Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -886,7 +886,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
