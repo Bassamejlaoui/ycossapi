@@ -42382,7 +42382,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -79869,7 +79869,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -159180,7 +159180,7 @@
     "subindustry": "B2B",
     "launched_at": 1679982577,
     "tags": [
-      "Real Estate",
+      "Fintech",
       "AI",
       "AI Assistant"
     ],
@@ -216952,20 +216952,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99c837f7df76621b15335bd8605214d030fa2181.png",
     "website": "https://miyagilabs.ai",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Miyagi Labs is an AI-powered exam prep platform that helps students ace tests like the SAT and ACT through our AI tutor, personalized study plans, thousands of practice questions, and realistic practice exams.\r\n\r\nWe’re building the platform we wish we had when studying for exams. No more running out of practice questions. Track your progress as your rating in different exam categories increases, and know exactly what you need to practice most.\r\n\r\nWe envision a world where students anywhere can come to Miyagi to ace their exams and receive personalized, world-class AI tutoring designed to unlock their full potential.",
     "one_liner": "AI tutors for exam prep",
     "team_size": 2,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1739904496,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Education",
-      "Generative AI",
-      "Edtech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -216976,8 +216970,7 @@
       "Education"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -227953,10 +227946,10 @@
       "Ouiza"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89a5d27698a033316145c05810e2edc1dbb57e96.png",
-    "website": "https://louiza-labs.com",
+    "website": "https://www.louizalabs.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We synthesize real-world and published evidence into literature reviews for post-market pharma (HEOR, medical affairs, market access) teams to prove post-market drug safety and efficacy — in days, not months.\r\n\r\nFocusing initially on women's health drugs + GLP-1's.\r\n\r\n",
-    "one_liner": "Hebbia for Pharmacuetical Evidence",
+    "long_description": "Assemble pharma publication-grade evidence 100x faster\r\n\r\nWe synthesize real-world and published evidence into literature reviews for post-market pharma teams (HEOR, medical affairs, market access) to prove post-market drug safety and efficacy — in days, not months.\r\n\r\nFocusing initially on women's health drugs + GLP-1's.\r\n\r\n",
+    "one_liner": "Hebbia for Pharmaceutical Evidence",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -232880,18 +232873,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897cd2d31bc7dc869e170422ebc8e24a66f3e2bc.png",
     "website": "https://thecontext.company",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ship reliable agents with confidence.\r\n\r\nAI agents often fail quietly, picking the wrong tools, looping, hallucinating, and more. The Context Company tells developers when and exactly where their agents fail so issues can be uncovered and fixed fast.\r\n\r\nIt combines traditional observability across traces, tool calls, latency, and costs with the ability to uncover silent failures that standard monitoring misses.\r\n\r\nGet started with less than 10 lines of code.",
-    "one_liner": "Semantic observability for AI agents to help teams fix failures fast",
+    "long_description": "Understand user patterns and find silent failures in your AI agents.\r\n\r\nThe Context Company helps teams analyze AI agent conversations to surface user behavior patterns, performance trends, and moments where agents struggle - so teams know what’s working, what’s not, and what to improve next.\r\n\r\nWe turn raw conversations into structured signals: topic clustering, user feedback analysis, custom pattern tracking, and alerts. All alongside traditional observability like traces, tool calls, latency, and costs.\r\n\r\nGet started in less than 10 lines of code.",
+    "one_liner": "Monitor AI agents and understand user behavior",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759953898,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -238571,7 +238564,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
     "website": "https://axisanalysis.com",
     "all_locations": "",
-    "long_description": "Axis is building an AI research platform for the commodities trading industry. Commodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy (Crude, Refined Products, Natural Gas, Petroleum) across the globe. Due to the size of these markets, commodities traders monitor data sources spanning prices and derivatives, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an analytical layer for these markets, allowing a trader or analyst to deploy models for monitoring information relevant to their strategy. \r\n",
+    "long_description": "Axis is building an AI research platform for the commodities trading industry, allowing a trader or analyst to deploy models for monitoring information relevant to their strategy. Commodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy (Crude, Refined Products, Natural Gas, Petroleum) across the globe. Due to the size of these markets, commodities traders monitor data sources spanning prices and derivatives, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an analytical layer for these markets.\r\n",
     "one_liner": "Models for Monitoring Commodities Markets",
     "team_size": 2,
     "industry": "Fintech",
@@ -238640,6 +238633,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lexius",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lexius.json"
+  },
+  {
+    "id": 31097,
+    "name": "REV1",
+    "slug": "rev1",
+    "former_names": [
+      "Hefaisto"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4441d91c221886a6f88c6d67b04646e2c34ade6c.png",
+    "website": "https://rev1.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
+    "one_liner": "Shortening hardware design cycles by automating post-CAD work",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1769993376,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Design",
+      "Manufacturing",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rev1",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/rev1.json"
   },
   {
     "id": 31098,
@@ -241345,6 +241383,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
   },
   {
+    "id": 31239,
+    "name": "Fort",
+    "slug": "fort",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ceb9d2604899970735943a3433bb4f01caee05e.png",
+    "website": "https://fort.cx",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fort is a wearable that tracks strength training for people who care about longevity.\r\n\r\nOther wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
+    "one_liner": "Wearable that tracks strength",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1769992231,
+    "tags": [
+      "Consumer Health Services",
+      "Consumer",
+      "Digital Health",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fort",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fort.json"
+  },
+  {
     "id": 31240,
     "name": "General Legal",
     "slug": "general-legal",
@@ -241644,16 +241724,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
     "website": "https://modaflows.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moda is an analytics platform for AI products that helps teams understand what users are actually trying to do inside LLM-powered conversations. We turn raw chats and agent traces into clustered intents, friction points, and trends so teams can make better product decisions without reading logs.",
-    "one_liner": "Product analytics for AI-powered products.",
+    "long_description": "Moda alerts you when things go wrong with your AI agents.",
+    "one_liner": "Sentry for AI.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1769121297,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
