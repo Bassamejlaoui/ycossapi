@@ -42382,7 +42382,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -60591,7 +60591,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -61586,11 +61586,12 @@
   },
   {
     "id": 1832,
-    "name": "Delphia (d.b.a. Tilt)",
-    "slug": "delphia-dba-tilt",
+    "name": "Tilt (f.k.a. Delphia)",
+    "slug": "tilt-fka-delphia",
     "former_names": [
       "Vox Pop Labs",
-      "Delphia"
+      "Delphia",
+      "Delphia (d.b.a. Tilt)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97c7b6a062bbf024d979f3e67fe169d6f103b8b.png",
     "website": "http://tilt.io",
@@ -61602,9 +61603,9 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1510196648,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Machine Learning"
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -61622,13 +61623,13 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delphia-dba-tilt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/delphia-dba-tilt.json"
+    "url": "https://www.ycombinator.com/companies/tilt-fka-delphia",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/tilt-fka-delphia.json"
   },
   {
     "id": 1833,
@@ -74497,7 +74498,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -97148,7 +97149,7 @@
     "former_names": [
       "Drip"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba1d88383fb670f4bece6ddacd19dd9b25e972cc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0fd578735825717b2afbf0834e1df6184ba35be.png",
     "website": "https://dripos.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Dripos is the only piece of software a coffee shop needs to run their business. We offer point of sale, employee scheduling, mobile ordering, and more to the 100,000 cafes in the United States.",
@@ -128968,7 +128969,7 @@
     "subindustry": "B2B",
     "launched_at": 1625260950,
     "tags": [
-      "Artificial Intelligence",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -135292,10 +135293,10 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -152667,7 +152668,7 @@
       "Crypto / Web3"
     ],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -165100,7 +165101,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -173638,17 +173639,18 @@
   },
   {
     "id": 28080,
-    "name": "Swishjam",
-    "slug": "swishjam",
+    "name": "Tagsafe",
+    "slug": "tagsafe",
     "former_names": [
-      "Tagsafe"
+      "Tagsafe",
+      "Swishjam"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d607b93f3da26fde36fd956fe7b3fb67f045e121.png",
-    "website": "https://swishjam.com",
+    "website": "http://www.tagsafe.io",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Swishjam takes web and product analytics a step further by connecting to all of your disparate systems, stitching that data into your product analytics data, and giving you a complete view of your SaaS business and your customers.",
-    "one_liner": "All-in-one digital analytics for SaaS companies",
-    "team_size": 2,
+    "long_description": "",
+    "one_liner": "",
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1678306868,
@@ -173679,8 +173681,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/swishjam",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/swishjam.json"
+    "url": "https://www.ycombinator.com/companies/tagsafe",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/tagsafe.json"
   },
   {
     "id": 28081,
@@ -179164,16 +179166,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eba747c12d79722f933dd297d83341ffec8d94c.png",
     "website": "https://www.getspine.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Spine is the unlimited visual workspace where your ideas can branch, run in parallel, and stay in view. Instead of being trapped in a linear chat thread, you think in blocks, not threads—chat, deep research, images, memos, slides—each block holding its own context while sharing it across the canvas.\r\n\r\nConnect and orchestrate GPT-5, Claude, Gemini, Grok, Llama and hundreds more like instruments in a symphony, all without losing your train of thought. Chat is great for Q&A; it’s terrible for thinking. Spine fixes that by letting context flow visually between blocks so your flow state never breaks.\r\n\r\nExtend this thinking to structured workflows that you can set up across 1000+ apps.\r\n\r\nReclaim your creative power. The age of prompt engineering is ending; the future of thinking is visual, collaborative, and unlimited—and it lives on Spine.",
-    "one_liner": "Unlimited visual workspace to collaborate with hundreds of AI models",
-    "team_size": 5,
+    "long_description": "Spine AI is a visual workspace where a single prompt spins up a swarm of AI agents that plan, delegate, and execute complex tasks together — with humans fully in the loop.\r\n\r\nInstead of chatting back and forth with one model, Spine breaks work into visible steps on a shared canvas. Agents collaborate in parallel, ask clarifying questions, use connected tools, and show their reasoning and intermediate outputs as they work.\r\n\r\nEvery agent’s work stays inspectable, auditable, and editable — reducing hallucinations and giving you real control over the outcome.\r\n\r\nSpine connects to leading AI models and your existing tools, but the real power comes from orchestration: you act as the team lead, Spine runs the swarm.\r\n\r\nChat is great for answers. Spine is built for execution.",
+    "one_liner": "Manage a swarm of AI agents to get real work done",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1687896796,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -179187,7 +179189,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -180671,7 +180675,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -186552,7 +186556,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -187337,9 +187341,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9018f799ff13c1605703fd892a9f431331770d3.png",
     "website": "https://www.maihem.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Maihem's generative AI platform lets you intuitively direct robots to complete varied tasks in changing environments without manual reprogramming.",
-    "one_liner": "Adaptable AI robots for your complex and dynamic workflows",
-    "team_size": 5,
+    "long_description": "Our mission is to empower every manufacturer, no matter their scale, to invent and build anything using intelligent robots.\r\n\r\nToday’s industrial robots are fast but \"blind\". They struggle with any task that isn't perfectly repetitive. We are building the eyes and brain (a proprietary vision system and AI model) that allow industrial robots to see, reason, and perform complex work with sub-millimeter accuracy and the adaptability of a human expert.\r\n\r\nWe are witnessing the start of a new industrial revolution: an era of advanced manufacturing powered by AI and robotics. We aim to lead this shift by putting these tools into the hands of every manufacturer, ensuring the power to invent and build at scale isn’t a privilege of the few.",
+    "one_liner": "Adaptive AI welding robots for manufacturers of any scale",
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1706234384,
@@ -187350,7 +187354,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -199892,7 +199896,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -203769,18 +203773,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da2b305915dd2f4090a9cd55210079b59c3095d.png",
     "website": "https://soff.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manufacturers use Soff to grow revenue by auto-creating quotes and automating communication with customers & suppliers.",
-    "one_liner": "AI for Manufacturers Sales",
+    "long_description": "Distributors & Manufacturers use Soff to grow revenue through Soff's sales agents that process quotes, orders and handles all communication with customers, co-workers & suppliers.",
+    "one_liner": "AI Agents for Distributors",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721748598,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Manufacturing",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -206550,16 +206554,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/528be4d7bdd9d7697989ae9bb99887ac579f65cc.png",
     "website": "https://www.dayflow.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "A timeline of your day, automatically.",
+    "long_description": "Dayflow is building productivity tools that increase the amount of (human) agency in the world. ",
+    "one_liner": "Generate a detailed log of everything you've worked on, automatically.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1725323188,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -212949,7 +212953,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -213349,16 +213353,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more.\r\n\r\nPromptless is designed to be flexible—it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source.\r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
     "one_liner": "An AI teammate that automatically updates your customer-facing docs",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -214209,8 +214213,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1741557589,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "GovTech"
+      "B2B",
+      "Sales",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -216203,7 +216210,7 @@
       "Highintent",
       "Gowatch"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbae37efd9e2a0d93d9c53bab48626e3a49950b8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efdf6ee9c7e7982e5c4b3241aed41a34d139d93c.png",
     "website": "http://www.bystreet.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bystreet is a hospitality deal sourcing platform built for hotel brands, management companies, and suppliers going after the CALA market. We provide best-in-class data on ownership groups and the right contacts to reach out to at them.",
@@ -217169,7 +217176,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -219595,7 +219602,7 @@
     "all_locations": "",
     "long_description": "Avallon automates insurance claims operations with AI agents that handle routine calls and documents processing. ",
     "one_liner": "AI agents for insurance claims operations",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1744318663,
@@ -221320,7 +221327,7 @@
       "NuPhone",
       "Wako AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d135876d42639aa8e4db16aaa587df7c0a5f0ba9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b1aed7099a4bf552ddb400d14fc642d3157809c.png",
     "website": "https://voiceos.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "VoiceOS turns voice into a seamless, universal interface to 10x productivity — a true voice operating system for the next era of computing.\r\n\r\nIt works across any app, letting users speak naturally to dictate, edit, and write text instantly. Whether writing an email, revising a document, or grasping complex information, VoiceOS transforms voice into the most powerful productivity tool, bridging the gap between thought and expression.",
@@ -229952,17 +229959,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a57c2d57c9bd745bb44f95e1f930dda18b6c534.png",
     "website": "https://opennote.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opennote is the one space for everything you study, turning chaos into clarity.\r\n\r\nMost learners struggle with scattered knowledge across different apps and tools that don't understand their learning style. Opennote changes that with a note-taking platform where AI knows your style, connects to your existing knowledge bases and the web, and provides proactive feedback and edits—right where you're already working.",
+    "long_description": "Opennote is a notebook with an AI thinking partner built in.\r\n\r\nFeynman lives in your work: it edits your writing, references your knowledge and the web, runs background tasks, and gives feedback as you work. ",
     "one_liner": "The notebook that thinks with you.",
     "team_size": 3,
-    "industry": "Education",
-    "subindustry": "Education",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1752018108,
     "tags": [
       "AI-Enhanced Learning",
       "Education",
       "SaaS",
-      "Consumer"
+      "Consumer",
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -229971,7 +229979,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Education"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -232302,7 +232310,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -238394,6 +238402,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/kita.json"
   },
   {
+    "id": 31084,
+    "name": "Bits",
+    "slug": "bits-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6833895347d41bbde540b70e33634ce1811c3856.png",
+    "website": "https://usebits.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bittie (app.usebits.com) connects AI to your browser. We integrate with 1password so that Bittie can log into and use all the websites you do. Try it out using our app (app.usebits.com) or extension (http://app.usebits.com/extension-beta)",
+    "one_liner": "Autonomous browser with native authentication",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770051535,
+    "tags": [
+      "AIOps",
+      "Deep Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bits-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/bits-2.json"
+  },
+  {
     "id": 31085,
     "name": "Ruma Care",
     "slug": "ruma-care",
@@ -239484,6 +239532,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/octapulse.json"
   },
   {
+    "id": 31142,
+    "name": "Beyond Reach Labs",
+    "slug": "beyond-reach-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a23843346ae92181428153349c06ed7c8d8a5a0b.png",
+    "website": "https://www.beyondreachlabs.com",
+    "all_locations": "",
+    "long_description": "At Beyond Reach Labs we are building solar panels for Space that grow from the size of a dining table to a football field in orbit.\r\n\r\nMitch and Pele met 13 years ago as freshmen at UPenn studying mechanical engineering. Mitch recently got his PhD at Carnegie Mellon working with NASA on kilometer-scale deployable structures, and Pele spent seven years at SpaceX leading Dragon parachute engineering, safely returning astronauts from space.\r\n\r\nThe collective satellites today use around 20MW, roughly the output of a datacenter on earth, but by 2030 there is a demand for over 10GW, a 500x increase, largely driven by orbital datacenters, space stations, and lunar outposts.\r\n\r\nIf you want more power, your only option is to launch larger solar panels, which quickly become fragile or impractically expensive. As a result, power constraints already determine whether missions or industries can exist at all.\r\n\r\nBut at Beyond Reach Labs we have introduced a new class of deployable solar panels giving satellites 10x more usable power without increasing launch mass or volume. This works because our patented deployable design changes geometry in space, allowing for us to reach 10x longer while remaining rigid.\r\n",
+    "one_liner": "Space solar arrays that grow to the size of a football field in orbit",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1770079967,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Space Exploration",
+      "Satellites",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beyond-reach-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/beyond-reach-labs.json"
+  },
+  {
     "id": 31144,
     "name": "DroneTector",
     "slug": "dronetector",
@@ -239839,10 +239929,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768420792,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -240212,7 +240302,7 @@
     "slug": "cardboard",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd18107dd1d0b70679aef18956a0bd68d03549b0.png",
-    "website": "https://cardboard.sh",
+    "website": "https://usecardboard.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we’re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",
     "one_liner": "Agentic video editor",
@@ -240221,10 +240311,10 @@
     "subindustry": "B2B",
     "launched_at": 1768162565,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Video",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -240724,7 +240814,7 @@
     "website": "https://www.caretta.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Caretta is a Sales Intelligence for revenue teams. It joins reps in live calls, helping them handle information requests, questions, and objections in real time. Caretta lives in Slack to join the team conversation.\r\n\r\nCaretta gets smarter automatically: every call expands its knowledge base and objection library, turning conversations into compounding organizational advantage.",
-    "one_liner": "24/7 Sales Intelligence ",
+    "one_liner": "Realtime AI for Sales Calls",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -241389,7 +241479,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ceb9d2604899970735943a3433bb4f01caee05e.png",
     "website": "https://fort.cx",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Fort is a wearable that tracks strength training for people who care about longevity.\r\n\r\nOther wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
     "one_liner": "Wearable that tracks strength",
     "team_size": 3,
@@ -241413,8 +241503,7 @@
       "Consumer Electronics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
