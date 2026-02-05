@@ -10997,7 +10997,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13489,7 +13489,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30576,18 +30576,22 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43d2fbfbaba3aeb673e435f9035b2a74c1dc35d7.png",
     "website": "https://www.glideapps.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Glide is a web-based app builder that allows non-programmers to quickly create powerful and beautiful apps by combining prebuilt components with a familiar spreadsheet model.\r\n\r\nApp development has barely changed in 30 years. Glide will bring app development out of the Dark Ages, making it web-based, collaborative, and fun. Think of Google Docs or Figma but for building apps.\r\n\r\nWe believe that almost all apps can be built 10-100x faster, with higher quality, by starting with the data model and generating a polished app from high-level components that users customize.\r\n\r\nOur mission is to make it easy and fun for anyone to build amazing apps without code. In ten years, we want the majority of apps worldwide to have been built with Glide.\r\n\r\nWe're four technical founders with expertise in native mobile frameworks, developer tools, and product design. We've worked together for 5-10 years, and were all early employees at Xamarin, a mobile developer tools startup acquired by Microsoft in 2016.",
-    "one_liner": "Create the app your business needs, without coding.",
+    "long_description": "Glide is a web-based app builder that allows non-programmers to quickly create powerful and beautiful internal business apps by starting from scratch, starting with a prompt, or starting with a spreadsheet. \r\n\r\nFor 30 years, app development had barely changed. When Glide launched, we brought app development out of the Dark Ages, making it web-based, collaborative, accessible, and fun. \r\n\r\nToday, the influence of AI on coding has propelled app development even further. And Glide has risen to the occasion. The next generation of Glide gives users an AI-first method for building internal business software without worrying about granular-level control, security, authentication, database infrastructure, or deployment woes. \r\n\r\nOur mission is to become the operating system for your business by helping you turn all of your operational spreadsheets and data into beautiful, intelligent apps. \r\n\r\nWe're three technical founders with expertise in native mobile frameworks, developer tools, and product design. We've worked together for 5-10 years, and were all early employees at Xamarin, a mobile developer tools startup acquired by Microsoft in 2016.",
+    "one_liner": "Glide turns spreadsheets into beautiful, intelligent apps.",
     "team_size": 46,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1543977295,
     "tags": [
-      "No-code"
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "No-code",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -30969,7 +30973,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -36838,8 +36842,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70722089a9cfbd2571c6ecc973da437d12dfc6e1.png",
     "website": "https://www.tryresponse.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Over 70% of B2B trade still happens through emails, PDFs, texts, and phone calls.\r\nNot because companies prefer it – but because their customers do.\r\n\r\nThis is the default ordering workflow across industries, and despite decades of ERP software, it remains largely manual.\r\n\r\nResponse provides the infrastructure for this reality.\r\nWe turn unstructured customer messages into clean, system-ready sales orders automatically, flowing directly into the ERP for approval or execution.\r\n\r\nBy automating the space between customer intent and systems of record, Response lets operators scale order volume without hiring more people, outsourcing labor, or retraining customers.\r\n\r\nWe’re building the missing automation layer for how B2B trade actually works.",
-    "one_liner": "Infrastructure for how B2B trade actually works.",
+    "long_description": "Over 70% of B2B trade still happens through emails, PDFs, texts, and phone calls — not because companies prefer it, but because their customers do.\r\n\r\nThis is the default ordering workflow across industries, and despite decades of ERP software, it remains largely manual.\r\n\r\nResponse provides the infrastructure for this reality.\r\nWe turn unstructured customer messages into ERP-ready draft orders, so teams can review, approve, and move faster without changing how they work.\r\n\r\nBy automating the space between customer intent and systems of record, Response lets operators scale order volume without hiring more people, outsourcing labor, or retraining customers.\r\n\r\nWe’re building the missing action layer for how B2B trade actually works.",
+    "one_liner": "Turn customer emails into ERP-ready orders.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -45610,14 +45614,14 @@
     "one_liner": "GitHub for lawyers",
     "team_size": 6,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Legal",
     "launched_at": 1616475139,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45627,7 +45631,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Legal"
     ],
     "regions": [
       "United States of America",
@@ -46356,9 +46360,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38d405f6de14f8d3d7f5c8feb80ff7911ac69ec2.png",
     "website": "https://popl.co/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Capture leads, enrich validated contact & company info, and share digital business cards - at events, in the field, and beyond. Powered by AI and our proprietary data engine, Popl drives growth for companies around the world, turning every handshake into an opportunity.",
-    "one_liner": "Your complete in-person GTM platform",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Capture leads, scan badges, enrich data, and sync it all to your CRM—at events, conferences, and beyond. Powered by AI and our proprietary data engine, Popl helps companies around the world turn in-person events into a measurable & scalable growth channel.",
+    "one_liner": "Your Complete In-Person GTM Platform",
     "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -46383,7 +46387,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -50430,8 +50434,8 @@
   },
   {
     "id": 23629,
-    "name": "Tackle",
-    "slug": "tackle",
+    "name": "AXAR AI",
+    "slug": "axar-ai",
     "former_names": [
       "TimeTackle",
       "Tackle",
@@ -50440,21 +50444,22 @@
       "Tackle",
       "Hightime AI",
       "Tackle",
-      "AXAR AI"
+      "AXAR AI",
+      "Tackle"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6d69f6925d4c16dd2a677cb6f9d9c595a18a19b.png",
-    "website": "https://www.timetackle.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/794ee05d86b9d2eb7ecf39001d3b513d95c5541b.png",
+    "website": "https://www.axar.ai/",
     "all_locations": "Mountain View, CA, USA",
     "long_description": "",
-    "one_liner": "Time tracking on autopilot",
-    "team_size": 3,
+    "one_liner": "Multi-agent orchestration platform",
+    "team_size": 41,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1616475313,
     "tags": [
-      "Artificial Intelligence",
+      "Developer Tools",
       "B2B",
-      "Operations"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50464,7 +50469,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -50477,8 +50482,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tackle",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/tackle.json"
+    "url": "https://www.ycombinator.com/companies/axar-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/axar-ai.json"
   },
   {
     "id": 23633,
@@ -52511,52 +52516,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/doublehq",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/doublehq.json"
-  },
-  {
-    "id": 24137,
-    "name": "Watu",
-    "slug": "watu",
-    "former_names": [
-      "Watu",
-      "ShopMyGPT.com"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b893bfee13bdfcc0a2a1b1bfc49d29c819dff05.png",
-    "website": "https://www.watu.email/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Watu is building an email iOS app to enable 1 click checkout inside of emails.",
-    "one_liner": "Checkout inside of email",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1630032705,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/watu",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/watu.json"
   },
   {
     "id": 24140,
@@ -61930,7 +61889,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09c76f2c8efc3d34c7d5faf491ca2acdfa542fb7.png",
     "website": "https://flagright.com",
-    "all_locations": "Singapore",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Flagright helps fintechs & banks monitor, screen, investigate, and report their transactions & customers against financial crime risks with a best-in-class AML compliance software. Catering to a diverse clientele across various financial sectors, we serve customers across 6 continents. Flagright is a pioneer in the application of generative AI for AML compliance operations with its AI suite, Flagright AI, delivering unmatched scalability and extreme performance. Our products are designed to help our customers scale volume without scaling headcount and grow faster.",
     "one_liner": "AI-native AML compliance platform for fintechs & banks",
     "team_size": 31,
@@ -61938,11 +61897,11 @@
     "subindustry": "B2B",
     "launched_at": 1642412738,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech",
-      "AI"
+      "Regtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -61954,8 +61913,8 @@
       "B2B"
     ],
     "regions": [
-      "Singapore",
-      "Southeast Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -73767,12 +73726,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Numeral is the fastest, easiest way to stay compliant with US sales tax and global VAT. \r\n\r\nTrusted by 2,000+ businesses, including Eight Sleep, Ridge, and Manus, our end-to-end platform keeps our customers compliant wherever they sell, with registrations, filings, calculations, and ongoing compliance support.\r\n\r\nNumeral’s AI-native solution covers more than 70 countries and tens of thousands of jurisdictions and is built for accuracy and scale.",
     "one_liner": "The AI-native sales tax solution.",
-    "team_size": 70,
+    "team_size": 85,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1672355505,
     "tags": [
+      "Fintech",
       "SaaS",
+      "Finance",
+      "Compliance",
       "E-commerce"
     ],
     "tags_highlighted": [],
@@ -78290,19 +78252,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae1f42156169b5811f9a7efe6cce76305167d38.png",
     "website": "https://resend.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "Resend is the new email API for developers. It's designed for you to build, test, and send transactional emails at scale.\r\n\r\nIf you're using Sendgrid, AWS SES, or Postmark, come talk to us.",
     "one_liner": "Email for developers",
     "team_size": 23,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1675214257,
-    "tags": [
-      "Developer Tools",
-      "Messaging",
-      "API",
-      "Email"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -78314,12 +78271,10 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -82905,7 +82860,7 @@
     "all_locations": "",
     "long_description": "Dialtone helps enterprises transform cross-functional, cross-system tasks into intelligent, self-running AI agents - all with your existing enterprise security controls. Companies across technology, sports and entertainment, healthcare, finance, and retail deploy Dialtone Agents to automate both internal operations and customer-facing processes.\r\n\r\nWhat sets us apart:\r\n1. Agentic AI delivered on day one: Our platform couples cutting-edge AI infrastructure with built-in reliability, security, and observability so teams can launch production-grade agents in days, not months.\r\n2. White-glove engineering included: Dedicated engineering support to help end-to-end, from scoping to launch to continuous optimization - at no extra cost.\r\n3. Success over software: We measure our impact by real business outcomes, not seat counts. If our agents aren’t moving the needle, we’re not done.\r\n\r\nHow it works:\r\n1.No-code Agent Builder - Design, test, deploy, and run agents in an intuitive UI anyone can use. All backed by Dialtone’s best-in-class AI infrastructure and agent orchestration platform.\r\n2. Humans in the loop - Employees can seamlessly collaborate with agents when human input or oversight is required.\r\n3. Triggers + Surfaces - Configure agents to run on integration events, time based schedules, or arbitrary webhooks - all in an easy-to-use UI. Or, use and talk with agents from your existing chat and email surfaces.\r\n4. Integrations Library - 100+ (and counting) first-party data, action, and event connectors for the software and tools you already depend on.\r\n5. Observability - View every step of any agentic flow with easily parseable real-time logs and traces for rapid debugging, optimization, and auditing.\r\n6. Custom Integrations + API - Extend agents with your proprietary systems and software using your existing OpenAPI specs and MCP servers. Need even more customization? Programmatically create, orchestrate, and monitor agents from your own codebase.\r\n",
     "one_liner": "AI agents for enterprises",
-    "team_size": 10,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1688669019,
@@ -92946,14 +92901,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34625866c8af1f2232deac55af64546b4e1026b2.png",
     "website": "http://www.senso.ai",
-    "all_locations": "",
-    "long_description": "Senso is building an AI-powered knowledge base for customer support, starting in the Credit Union space.  Our product reduces contact time by over 10x by enabling support teams to make decisions about customer requests in seconds.  Bringing service automation to the financial services industry is a $6B opportunity, and we’re building for all regulated industries where Senso's founders have spent over a decade building enterprise software.  ",
-    "one_liner": "AI-Powered Knowledge Base for Customer Support",
-    "team_size": 2,
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Senso is building the infrastructure for the agentic web.\r\n\r\nAs AI agents replace websites as the primary interface for discovery, decisions, and commerce, enterprises need a new way to control how agents understand, reason over, and act on their data. \r\n\r\nSenso enables companies to register agent-first domains, ingest first-party enterprise data, and publish verified, structured ground truth that AI agents can safely answer from, recommend with, and transact against. \r\n\r\nOur platform continuously evaluates how models use this context and adapts it to gain authority across leading LLMs.\r\n\r\nWe are building the System of Record for Verified AI—powering AI discovery, agentic commerce, and post-transaction resolution across regulated and enterprise environments. ",
+    "one_liner": "Control what AI says about you",
+    "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B",
     "launched_at": 1704454195,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "AI Assistant"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -92961,10 +92920,11 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Analytics"
+      "B2B"
     ],
     "regions": [
+      "Canada",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -98209,16 +98169,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Distributors & Manufacturers use Soff to grow revenue through Soff's sales agents that process quotes, orders and handles all communication with customers, co-workers & suppliers.",
     "one_liner": "AI Agents for Distributors",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721748598,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Manufacturing",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -102973,15 +102933,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c8ca1f80fbcb63a0a616d53bce31153601a954.png",
     "website": "https://www.usesynth.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integrate your existing production code - in any language or framework - with apis that make it easy to optimize prompts from production traffic or development benchmarks",
-    "one_liner": "Prompt Optimization for Any Agent",
+    "long_description": "Choose a coding agent harness, model, and task dataset and optimize context and prompts to get the best performance for long-horizon tasks",
+    "one_liner": "Prompt and Context Optimization for Coding Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729021221,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -107684,17 +107644,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb627188af8a389c044d02fc9024aae3ea05cdd3.png",
     "website": "https://golf.dev/",
     "all_locations": "",
-    "long_description": "Golf is the security gateway for enterprise MCP servers. We give organizations a single entry point to control, monitor, and secure their MCP infrastructure.",
-    "one_liner": "Security for enterprise MCP servers.",
+    "long_description": "Golf gives enterprises visibility into shadow AI and control over AI agents and MCP. See what's connected, enforce policies, and generate audit trails - all from one place.",
+    "one_liner": "Agentic AI Security and Governance",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1745255607,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Security",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -108264,18 +108224,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png",
     "website": "https://www.clarm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "You build awesome software - now turn it into a business. We turn each git commit into customer sales by producing leads and marketing material from your codebase and providing 24/7 technical support to your users.",
-    "one_liner": "Sales for developers",
+    "long_description": "You only need two tools to build a business in 2026 - Cursor and Clarm. We automate inbound and customer support for highly technical teams like software, OSS, and finance and healthcare companies.",
+    "one_liner": "Automate PMF",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1747978633,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Sales",
       "Marketing",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -110841,7 +110801,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -111622,7 +111582,7 @@
       "GETASAP ASIA"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png",
-    "website": "https://www.getasap.asia",
+    "website": "https://www.getasap.us",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
     "one_liner": "8-hour Produce Distribution for Retailers of Any Size",
@@ -112817,17 +112777,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://janet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out janet.ai to get started today!",
+    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS/email.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out janet.ai to get started today!",
     "one_liner": "The AI-Native Jira",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752861520,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -114583,14 +114543,16 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be10a2d11184480de4bc819bb87298c7d2766cce.png",
     "website": "https://idler.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Idler builds reinforcement learning environments that teach AI models to code at expert human levels. We create training environments based on real-world coding scenarios that prepare models for the complex challenges they'll face in production.",
     "one_liner": "Reinforcement learning environments. ",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749750449,
-    "tags": [],
+    "tags": [
+      "Reinforcement Learning"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -114602,7 +114564,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -117653,16 +117616,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3dd38394ff07e1224b748fcf5b78c7df866584d2.png",
     "website": "https://www.redapto.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Redapto builds self-improving systems for customer support teams that boost CSAT, NRR, and drive repeat purchases.\r\n\r\nSupport quality plateau because agents and QA are static. Less than 5% of interactions are reviewed, missing SOP gaps, hallucinations, and outdated knowledge. Redapto audits 100% of interactions to detect issues, run custom evals, and auto-update SOPs, training, and knowledge bases so teams continuously improve.\r\n\r\nWe’re applied researchers who’ve shipped this at scale. At Coinbase, our agent automations save $2.5M+ annually; at Adobe and Amazon, our post-training and compression work saved $1M+ and improved latency 20×. ",
-    "one_liner": "Self-improving systems for Customer Support Teams",
+    "long_description": "",
+    "one_liner": "",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759943597,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -118828,7 +118791,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
     "all_locations": "",
-    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 300K+ organic views.\r\n\r\nCompanies like Replit, Brex, Whop, Reforge, and Micro1 use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
+    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Replit, Brex, Whop, Reforge, and Micro1 use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
     "one_liner": "AI Brand and Performance Ads at Scale",
     "team_size": 4,
     "industry": "B2B",
@@ -120276,17 +120239,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
     "website": "https://www.tensol.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Multi-agent systems orchestration",
+    "long_description": "Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Your AI employee has full context of your company, is running 24/7 and can monitor Slack, track Sentry errors, update your CRM. We handle the setup and deployment of isolated VMs, no need for a Mac mini, a dedicated phone number or a devOps engineer.\r\n\r\nTensol also lets you create specialized AI employees for different jobs, like engineering, sales, and support, from a simple UI. You can connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations and a quick OAuth flow that takes about two minutes. Each AI employee also gets its own dedicated identity, so it can operate like a real teammate.",
+    "one_liner": "AI Employees for Startups, Built on OpenClaw",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767743432,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software",
-      "Infrastructure",
-      "AI"
+      "Productivity",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -120358,7 +120321,7 @@
     "name": "Bits",
     "slug": "bits-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6833895347d41bbde540b70e33634ce1811c3856.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad7cbe9bb51e9d5c0dea0e9dc6f1d62f8da6903.png",
     "website": "https://usebits.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bittie (app.usebits.com) connects AI to your browser. We integrate with 1password so that Bittie can log into and use all the websites you do. Try it out using our app (app.usebits.com) or extension (http://app.usebits.com/extension-beta)",
@@ -120901,6 +120864,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bujo",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/bujo.json"
+  },
+  {
+    "id": 31119,
+    "name": "ZeroSettle",
+    "slug": "zerosettle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df1cb7001d68c800f9bb4a4a4b48f8d7a27e4699.png",
+    "website": "https://zerosettle.io",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Bypass the App Store tax and enable web-based purchases",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1770252325,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zerosettle",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zerosettle.json"
   },
   {
     "id": 31121,
@@ -121598,15 +121601,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
     "website": "https://stilta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.\r\n\r\nInnovation is key to solving the world’s most important challenges, but the tools to protect innovation haven’t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don’t solve trust and integration in legal-grade workflows.\r\n\r\nWe’re four engineers from McKinsey/QuantumBlack who’ve spent the last few years building and deploying AI for large organizations. We’re building Stilta because the practitioners protecting the world’s most valuable ideas deserve tools that match the stakes. We’re already live with paying customers in both Europe and the US. ",
+    "long_description": "Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.\r\n\r\nInnovation is key to solving the world’s most important challenges, but the tools to protect innovation haven’t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don’t solve trust and integration in legal-grade workflows.\r\n\r\nWe’re four engineers from McKinsey/QuantumBlack who’ve spent the last few years building and deploying AI for large organizations. Now we are building Stilta because the practitioners protecting the world’s most valuable ideas deserve tools that match the stakes. We’re already live with paying customers in both Europe and the US. ",
     "one_liner": "Cursor for patent practitioners",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769876849,
     "tags": [
-      "Artificial Intelligence",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -122049,6 +122052,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ressl-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
+  },
+  {
+    "id": 31203,
+    "name": "sitefire",
+    "slug": "sitefire",
+    "former_names": [
+      "pulse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d810cf9fbc8197e7a14f659b8561b30bc2fc6e4c.png",
+    "website": "https://sitefire.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "sitefire helps companies win customers on ChatGPT, Gemini, and other AI agents. We identify the content that drives AI visibility, and recommend actions that work: third-party sites, UGC content, and new blog posts. But we don’t stop there. sitefire synthesizes the top-cited web pages into AI-optimized, ready-to-publish web pages. You just publish and start winning leads.",
+    "one_liner": "Marketing suite for the agentic web.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1770178936,
+    "tags": [
+      "Marketing",
+      "Enterprise",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sitefire",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sitefire.json"
   },
   {
     "id": 31206,
@@ -122689,8 +122735,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e9ec4aa927e0e98329effde763de82fc90df7c1.png",
     "website": "https://bookoapp.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": " Booko helps appointment-based businesses make more money by dynamically pricing their time. Unlike physical inventory, unsold hours disappear forever, yet most service businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold. ",
-    "one_liner": "Dynamic pricing for service businesses",
+    "long_description": "Booko helps businesses that sell bookable time slots make more money by dynamically pricing their time. Unlike physical inventory, unsold time slots disappear forever, yet most time-slot-based businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold.",
+    "one_liner": "Dynamic pricing for businesses that sell time slots",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

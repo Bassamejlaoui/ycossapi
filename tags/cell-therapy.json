@@ -234,7 +234,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f0bdde9261c1483c617c9ca235a7378e3d7ba10.png",
     "website": "https://origin.bio/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Designing novel regulatory DNA (biological switches and dials) to program precise gene expression patterns for diseases like cancer, CNS disorders and more. We're building the largest proprietary dataset of non-natural, synthetic regulatory sequences.",
+    "long_description": "Designing novel regulatory DNA (e.g., enhancers and promoters) to program precise therapeutic gene expression patterns - for diseases like cancer, CNS disorders and more. We're building the largest proprietary dataset of synthetic regulatory sequences across diverse cell-states.",
     "one_liner": "AI for safer cell & gene therapies",
     "team_size": 4,
     "industry": "Healthcare",
