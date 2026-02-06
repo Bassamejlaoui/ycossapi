@@ -36840,7 +36840,7 @@
     "slug": "response",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70722089a9cfbd2571c6ecc973da437d12dfc6e1.png",
-    "website": "https://www.tryresponse.com/",
+    "website": "https://inbox.tryresponse.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Over 70% of B2B trade still happens through emails, PDFs, texts, and phone calls — not because companies prefer it, but because their customers do.\r\n\r\nThis is the default ordering workflow across industries, and despite decades of ERP software, it remains largely manual.\r\n\r\nResponse provides the infrastructure for this reality.\r\nWe turn unstructured customer messages into ERP-ready draft orders, so teams can review, approve, and move faster without changing how they work.\r\n\r\nBy automating the space between customer intent and systems of record, Response lets operators scale order volume without hiring more people, outsourcing labor, or retraining customers.\r\n\r\nWe’re building the missing action layer for how B2B trade actually works.",
     "one_liner": "Turn customer emails into ERP-ready orders.",
@@ -48980,18 +48980,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3df7b6e09c2fda2538b0426203b84e4e92ca7471.png",
     "website": "https://flutterflow.io",
-    "all_locations": "San Mateo, CA, USA; Remote",
+    "all_locations": "",
     "long_description": "We're building a visual application development platform to dramatically improve the time to market and quality of digital experiences. FlutterFlow helps companies and product teams improve developer efficiency, accelerate project timelines, and reduce costs for large-scale business applications. Our customers include some of the largest banking, consulting, telecom, and manufacturing companies in the world.\r\n\r\nWe have more than 1.3M users in more than 200 countries and regions around the world.\r\n\r\nWe’re a remote first team headquartered in the San Francisco Bay Area. We have offices in Mountain View, New York City, and Singapore.",
     "one_liner": "Application Development Platform (Native Mobile + Web Apps)",
-    "team_size": 70,
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1613985818,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Design Tools"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -49003,12 +48999,10 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -49258,14 +49252,13 @@
     "all_locations": "Bogotá, Bogota, Colombia",
     "long_description": "Treinta powers 7 million SMBs across the US and Latin America with simple finance, inventory, and sales tools. In 2025, Treinta launched idealane, an AI builder that lets entrepreneurs create websites, apps, and automations by chatting. ",
     "one_liner": "Software and AI tools for SMBs in the US and Latin America",
-    "team_size": 64,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1611327725,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B"
+      "Subscriptions",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53667,7 +53660,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -78274,7 +78267,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -82857,23 +82850,23 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8692e4ed8f0a4f0994a54350ecdac6d39e97ad8e.png",
     "website": "https://usedialtone.com",
-    "all_locations": "",
-    "long_description": "Dialtone helps enterprises transform cross-functional, cross-system tasks into intelligent, self-running AI agents - all with your existing enterprise security controls. Companies across technology, sports and entertainment, healthcare, finance, and retail deploy Dialtone Agents to automate both internal operations and customer-facing processes.\r\n\r\nWhat sets us apart:\r\n1. Agentic AI delivered on day one: Our platform couples cutting-edge AI infrastructure with built-in reliability, security, and observability so teams can launch production-grade agents in days, not months.\r\n2. White-glove engineering included: Dedicated engineering support to help end-to-end, from scoping to launch to continuous optimization - at no extra cost.\r\n3. Success over software: We measure our impact by real business outcomes, not seat counts. If our agents aren’t moving the needle, we’re not done.\r\n\r\nHow it works:\r\n1.No-code Agent Builder - Design, test, deploy, and run agents in an intuitive UI anyone can use. All backed by Dialtone’s best-in-class AI infrastructure and agent orchestration platform.\r\n2. Humans in the loop - Employees can seamlessly collaborate with agents when human input or oversight is required.\r\n3. Triggers + Surfaces - Configure agents to run on integration events, time based schedules, or arbitrary webhooks - all in an easy-to-use UI. Or, use and talk with agents from your existing chat and email surfaces.\r\n4. Integrations Library - 100+ (and counting) first-party data, action, and event connectors for the software and tools you already depend on.\r\n5. Observability - View every step of any agentic flow with easily parseable real-time logs and traces for rapid debugging, optimization, and auditing.\r\n6. Custom Integrations + API - Extend agents with your proprietary systems and software using your existing OpenAPI specs and MCP servers. Need even more customization? Programmatically create, orchestrate, and monitor agents from your own codebase.\r\n",
-    "one_liner": "AI agents for enterprises",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Pre built self-learning agents that automate duplicates and account matching, plus stale-opportunity enforcement and close-date drift - across your existing CRM, GTM stack, comms, and data warehouses.",
+    "one_liner": "Identity & pipeline freshness AI agents for revenue teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1688669019,
     "tags": [
       "Artificial Intelligence",
+      "B2B",
       "Enterprise",
-      "Enterprise Software",
       "Automation",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -82881,7 +82874,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -85865,18 +85859,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42126d50fed615bc74167d22b4985b25e9d25fad.png",
     "website": "https://inconvo.com",
     "all_locations": "Limerick, County Limerick, Ireland",
-    "long_description": "Inconvo is an all-in-one platform for building and releasing AI Reporting Agents. We save companies months of development time by handling connection to SQL databases, AI query guardrails and user authentication.",
-    "one_liner": "All-in-one platform for building & releasing AI Reporting Agents",
+    "long_description": "Inconvo is the open-source platform for building data agents on production data. With safe queries, permissions, and structured outputs.\r\n\r\nUse Inconvo to build and deploy data agents that query production databases and can be called directly from your application. You get safe query execution, permissions, stateful conversations, and observability out of the box.",
+    "one_liner": "Build chat-with-data agents for customer-facing applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690946743,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS",
       "Analytics",
-      "API",
-      "AI Assistant"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -99500,17 +99493,16 @@
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Oway is an AI-driven freight platform that turns America’s empty truck space into a new category of freight shipping. Every year 50% of U.S. truck space goes unused, a $100B+ inefficiency. Oway uses AI to automatically price, match, and sell that space in real time, giving businesses freight shipping that is dramatically faster and cheaper than traditional options. \r\n\r\nWe're building the largest decentralized network of America’s empty truck space - a transparent infrastructure layer any shipper, broker, or carrier can plug into. For shippers, this means freight costs that are up to 50% lower than traditional LTL (shipments from 1 to 12 pallets), along with faster delivery windows because freight moves directly from dock to dock without the slow handoffs, warehouses, or cross-docking infrastructure that LTL depends on. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact on existing schedules. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And by digitizing and decentralizing freight, we are laying the foundation for a resilient, transparent logistics layer that can support America’s reindustrialization in the decades ahead. Oway makes freight shipping as simple as ridesharing - click a button, book a truck, and move goods at the true cost of available capacity.",
-    "one_liner": "The First AI Infrastructure Layer for America’s Empty Truck Space",
+    "one_liner": "AI Infrastructure for America’s Empty Truck Space",
     "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1717601253,
     "tags": [
-      "Machine Learning",
-      "Marketplace",
+      "Artificial Intelligence",
       "B2B",
-      "Ridesharing",
-      "Logistics"
+      "Logistics",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -99520,7 +99512,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Supply Chain and Logistics"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -104932,17 +104924,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
     "website": "https://fromolive.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Olive learns your hiring bar as you review candidates and gives you suggestions to find the best talent.",
-    "one_liner": "AI Applicant Screening",
+    "long_description": "",
+    "one_liner": "The context layer for your team",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740018718,
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Recruiting",
-      "Talent Acquisition"
+      "Productivity",
+      "Team Collaboration"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -105577,7 +105568,6 @@
     "launched_at": 1740115759,
     "tags": [
       "SaaS",
-      "Real Estate",
       "B2B",
       "Proptech"
     ],
@@ -107557,14 +107547,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9572a4af92fd7a09438369c8555334bcd54574f8.png",
     "website": "https://getnao.io/",
-    "all_locations": "",
-    "long_description": "nao is an AI code editor for data teams. Its AI agent is natively integrated with your data warehouse, and trained on data workflows - so it can write code that actually works on your data and guarantees its quality.",
-    "one_liner": "AI data IDE",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "nao is an open source framework to build and deploy analytics agent.\r\nCreate the context of your analytics agent with nao-core cli: data, metadata, modeling, rules, etc. Deploy a UI for anyone to chat with your agent and run analytics on your data.",
+    "one_liner": "Open Source Analytics Agent",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1744958361,
-    "tags": [],
+    "tags": [
+      "Analytics",
+      "Open Source",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -107576,7 +107570,8 @@
       "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -113572,7 +113567,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89a5d27698a033316145c05810e2edc1dbb57e96.png",
     "website": "https://www.louizalabs.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Assemble pharma publication-grade evidence 100x faster\r\n\r\nWe synthesize real-world and published evidence into literature reviews for post-market pharma teams (HEOR, medical affairs, market access) to prove post-market drug safety and efficacy — in days, not months.\r\n\r\nFocusing initially on women's health drugs + GLP-1's.\r\n\r\n",
+    "long_description": "Assemble pharma publication-grade evidence 100x faster\r\n\r\nWe synthesize real-world and published evidence into literature reviews for  pharma teams to prove drug safety and efficacy — in days, not months. Focusing initially on women's health drugs + GLP-1's.\r\n\r\nBuilt by a team of NVIDIA engineers, Apple Engineers, and Harvard Med Students.\r\n\r\n",
     "one_liner": "Hebbia for Pharmaceutical Evidence",
     "team_size": 3,
     "industry": "B2B",
@@ -114211,6 +114206,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
   },
   {
+    "id": 30715,
+    "name": "Autumn AI",
+    "slug": "autumn-ai",
+    "former_names": [
+      "Chiral Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c561ac3ff3132e3dda05b6de7836b2d1b55ed1aa.png",
+    "website": "https://autumnai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Autumn is building the first real-time signal intelligence platform for GTM teams. We monitor posts, commits, blogs, and announcements, surfacing buying signals the moment they appear. Define your ICP and the signals that matter, and we deliver a condensed, real-time feed filtered by intents.",
+    "one_liner": "Stalk your prospects at scale.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770313792,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Search",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/autumn-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/autumn-ai.json"
+  },
+  {
     "id": 30716,
     "name": "Finto",
     "slug": "finto-de",
@@ -114342,15 +114381,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omnara brings Claude Code to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
-    "one_liner": "Mobile & Voice Interface for Claude Code",
+    "long_description": "Omnara brings Claude Code and Codex to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
+    "one_liner": "Mobile & Voice Interface for Claude Code & Codex",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753676392,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -114710,7 +114749,9 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750622964,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -120324,8 +120365,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad7cbe9bb51e9d5c0dea0e9dc6f1d62f8da6903.png",
     "website": "https://usebits.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bittie (app.usebits.com) connects AI to your browser. We integrate with 1password so that Bittie can log into and use all the websites you do. Try it out using our app (app.usebits.com) or extension (http://app.usebits.com/extension-beta)",
-    "one_liner": "Autonomous browser with native authentication",
+    "long_description": "Get your personal OpenClaw instance on the cloud and connected to your Slack or other messaging app in 3 minutes. Pre-installed security features and common skills. ",
+    "one_liner": "Fast and Safe OpenClaw on the cloud",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -120355,6 +120396,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bits-2",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bits-2.json"
+  },
+  {
+    "id": 31087,
+    "name": "Lucent",
+    "slug": "lucent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b309a5cff7d85c233aaac20ea8209b1c0736a6e.png",
+    "website": "https://lucenthq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lucent automatically watches your user sessions and alerts you when users hit bugs or UX issues. You're recording thousands of sessions but nobody's watching them. Lucent does - catching silent issues breaking your product that you'd otherwise never know about.",
+    "one_liner": "AI that automatically watches your session replays to detect bugs.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770303004,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucent",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/lucent.json"
   },
   {
     "id": 31088,
@@ -120406,8 +120487,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/500f8974cf64740c19c12e8fa5b25e0284652488.png",
     "website": "https://www.lance.live",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lance is an AI voice agent for hotel operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack. Trusted by hotel groups with 50+ hotels across Marriott, Hyatt, and Hilton.",
-    "one_liner": "AI Voice Agent for Hotel Operations",
+    "long_description": "AI Agents for Hotel Operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack. Trusted by hotel groups with 50+ hotels across Marriott, Hyatt, and Hilton.",
+    "one_liner": "AI Agent Built for Hotel Operations",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -120952,14 +121033,17 @@
   },
   {
     "id": 31123,
-    "name": "21st",
-    "slug": "21st",
-    "former_names": [],
+    "name": "1code (21st.dev)",
+    "slug": "1code-21stdev",
+    "former_names": [
+      "21st",
+      "1code by 21st.dev"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
-    "website": "https://21st.dev",
+    "website": "https://1code.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Ai programming tools",
+    "long_description": "A control panel for your AI coding agents. Run Claude Codes in parallel locally or in remote sandboxes, automate Linear tasks, PR reviews for teams that ship fast",
+    "one_liner": "Orchestration layer for coding agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -120988,8 +121072,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/21st",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
+    "url": "https://www.ycombinator.com/companies/1code-21stdev",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/1code-21stdev.json"
   },
   {
     "id": 31128,
@@ -121945,8 +122029,8 @@
     "subindustry": "B2B",
     "launched_at": 1767260558,
     "tags": [
-      "Reinforcement Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -122852,6 +122936,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fed10",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
+  },
+  {
+    "id": 31248,
+    "name": "BeeSafe AI",
+    "slug": "beesafe-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a94eb8ceff47b3a9989e9c3c4f0bff0ac9c2e0a.png",
+    "website": "https://beesafe.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BeeSafe AI is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and law enforcement to intercept scammers mid-transaction and prevent victim losses.",
+    "one_liner": "Stopping Scams Before They Reach Your Customers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1770327115,
+    "tags": [
+      "Security",
+      "Cybersecurity",
+      "Fraud Prevention",
+      "Fraud Detection",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beesafe-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/beesafe-ai.json"
   },
   {
     "id": 31252,
