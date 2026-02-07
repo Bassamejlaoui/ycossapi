@@ -40418,10 +40418,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
-    "all_locations": "Sunnyvale, CA, USA; Remote",
-    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n",
-    "one_liner": "Swif.ai: multi-OS device compliance & security with Shadow IT/AI…",
-    "team_size": 10,
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
+    "one_liner": "The guardrail for AI on every device",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1597360094,
@@ -40446,7 +40446,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -49002,7 +49002,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -53660,7 +53660,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -66643,7 +66643,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -82767,18 +82767,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a40c666dc622907d8af3f29f4b78c554dba156c9.png",
     "website": "https://repaint.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Repaint lets you build a website by chatting in plain English. As you describe your business and the changes you want, Repaint turns those messages into design, layout, and content on a live site. It’s built for small businesses, independent professionals, and anyone who doesn’t want to deal with code or heavy design tools. Our vision is to make a new type of software creation that's accessible to everyone.",
+    "long_description": "Repaint lets you build professional websites by chatting with AI. It interviews you and searches information to plan your website. Then it builds it. You can edit anything through AI chat, and directly publish to a custom domain. It lets non-coders build sites without learning coding or a heavy design tool. Our vision is to make a new type of software creation that's accessible to the masses.",
     "one_liner": "Build a website by chatting with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690825892,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Chatbot",
       "Design",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -84065,7 +84065,7 @@
     "former_names": [
       "gleam"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9099d64668ee675c725feb5d157da158b615724e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd818311eead953bafedec5b0c136092492541ea.png",
     "website": "https://joingleam.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Gleam automates data entry for clinical research sites.",
@@ -96117,15 +96117,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "AI Agents for Advisory & Financial Services.",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1716911130,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Finance",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -101716,7 +101716,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -104796,8 +104796,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87e36d9c531e8bea073d0ff4ca8ceaced1c215a5.png",
     "website": "https://www.operand.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operand is building an AI to replace traditional consulting. We help businesses make better decisions by deeply analyzing their data across all sources—something consultants can’t do at scale.\r\n\r\nWe’re starting in e-commerce and retail, where the businesses’ high data density and real-time feedback loops allow us to show impact fast. Our first capability is pricing and discount strategy. Operand considers everything—competitor pricing, ad strategy, inventory, and more—to ensure businesses maximize profit.\r\n\r\nAnd unlike other AI solutions, every Operand result is verified by human experts, including ex-MBB consultants, so you get actual impact, not just AI hype.\r\n\r\nWe’re already generating 6-figure P&L improvements for early customers.",
-    "one_liner": "AI to Replace Management Consulting",
+    "long_description": "Operand builds and deploys AI systems that help companies run their business better—using data, machine learning, and decision systems to drive day-to-day strategy execution. They work with leading retailers, manufacturers, distributors, and capital allocators on guiding everything from pricing, forecasting, allocation, diligence, and more.  ",
+    "one_liner": "AI to run Business Strategy",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -110799,7 +110799,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -112405,7 +112405,7 @@
       "BitRig"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cab11cbab7740801b864a1576c8a78d2f69fa8e6.png",
-    "website": "https://www.bitrig.app",
+    "website": "https://bitrig.com",
     "all_locations": "",
     "long_description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob are creators of SwiftUI, Apple's UI framework for building modern iOS apps, and led its development for the past 10 years. Tim was co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
     "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
@@ -114094,8 +114094,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f657fb954d32582892780fbf061a8b6256b8044.png",
     "website": "https://hyprnote.com",
     "all_locations": "",
-    "long_description": "Hyprnote is the first open-source AI notetaker for the enterprise. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
-    "one_liner": "Open-source AI notetaker for the enterprise",
+    "long_description": "Hyprnote is a privacy-first AI note app for meetings that listens in the background, transcribes what’s said, and turns messy conversations into clean, searchable notes and summaries, all while keeping your data on your own computer so you can work offline and focus on the conversation instead of typing.",
+    "one_liner": "AI meeting notes without strings attached",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -114103,7 +114103,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -120697,7 +120697,7 @@
     "former_names": [
       "Realm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26000be4ea55d3ad362449bab44a79ad483eaba7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b7bb4a4c603e5aceea61b58a68a6d3b7156a9d9.png",
     "website": "https://sentrial.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sentrial is the observability platform for AI agents in production. \r\n\r\nWhen your agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams can ship agents with confidence and iterate based on real production behavior, not just evals/benchmarks.",
@@ -120708,9 +120708,9 @@
     "launched_at": 1770083112,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -121037,7 +121037,9 @@
     "slug": "1code-21stdev",
     "former_names": [
       "21st",
-      "1code by 21st.dev"
+      "1code by 21st.dev",
+      "1code (21st.dev)",
+      "1code (ex: 21st.dev)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://1code.dev",
@@ -121381,6 +121383,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   },
   {
+    "id": 31147,
+    "name": "Salus",
+    "slug": "salus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c6ac09e3c5b1ea11b328571a796a96107e4570.png",
+    "website": "https://www.usesalus.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.\r\n\r\nWe’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. Kevin and Vedant were roommates at Stanford, where they both studied computer science. ",
+    "one_liner": "Guardrails to validate your agent's actions before they execute",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770354850,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "API",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/salus",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/salus.json"
+  },
+  {
     "id": 31149,
     "name": "EigenPal",
     "slug": "eigenpal",
@@ -121511,7 +121556,7 @@
     "slug": "perfectly",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13607170eb2ca92be8c6b3fe617797b6b16e279a.png",
-    "website": "http://perfectly.so/",
+    "website": "https://www.perfectly.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Perfectly is the first ever end-to-end AI recruiting agency.\r\n\r\nWe learn your deep hiring preferences via our intake, then we source and outreach to thousands of candidates that fit exactly what you're looking for. \r\n\r\nThen candidates conduct an AI screen that can be reused for future jobs, and are delivered straight to the hiring manager's portal for interviews. \r\n\r\nRecruiting is broken because information between candidates, hiring managers, and recruiters is lost at every step.\r\n\r\nWe realized the opposite could be true: The more you tell us, the more accurately our algorithm can match you. That's how we build trust.",
     "one_liner": "The AI-native Recruiting Operating System",
@@ -121520,8 +121565,8 @@
     "subindustry": "B2B",
     "launched_at": 1768534230,
     "tags": [
-      "Recruiting",
-      "AI"
+      "Artificial Intelligence",
+      "Recruiting"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -121674,6 +121719,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compresr",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
+  },
+  {
+    "id": 31166,
+    "name": "Unisson",
+    "slug": "unisson",
+    "former_names": [
+      "InUnison",
+      "Unisson",
+      "unisson"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd03bcedbbd9356a9f36c34083e541508201f3c6.png",
+    "website": "https://www.unisson.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours every month. ",
+    "one_liner": "The AI product specialist for customer-facing teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1770359134,
+    "tags": [
+      "Workflow Automation",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unisson",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/unisson.json"
   },
   {
     "id": 31167,
@@ -122138,6 +122228,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
   },
   {
+    "id": 31201,
+    "name": "Robby",
+    "slug": "robby",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d0e4c250082b6d92fda2c96cf3af7a535c03a5.png",
+    "website": "https://tryrobby.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robby is an AI growth engine for home services businesses that uncovers revenue opportunities and collects additional data from every technician visit. Our AI combines customer and third party data to generate dozens of new leads every day, and then arms the technicians with talking points to increase close rates, giving GMs a single command center to manage and drive revenue. We have several paying customers that are each uncovering 6 figures in additional revenue opportunities every week. On our first day of launch, we helped close $40k in new business within an hour.\r\n\r\nOur team has spent the last few months riding along with dozens of technicians and shadowing every position in the office to best understand the industry. We're also studying for the EPA 608 exam to become certified technicians ourselves.\r\n\r\nVineet and Feroze have both built critical products and infra at prominent startups (Ironclad, Porter, Affinity, Uber, Cloud Health Systems). Joe previously consulted PE firms on software acquisitions and led home services growth projects at Bain. We all met at Harvard Business School, and dropped out to work on Robby full-time.",
+    "one_liner": "Agentic revenue growth for home service businesses.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1770411161,
+    "tags": [
+      "Artificial Intelligence",
+      "Home Services"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/robby",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/robby.json"
+  },
+  {
     "id": 31203,
     "name": "sitefire",
     "slug": "sitefire",
@@ -122560,47 +122690,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
   },
   {
-    "id": 31224,
-    "name": "Servo7",
-    "slug": "servo7",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
-    "website": "https://servo7.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "Traditional warehouse automation is broken. It's expensive, it takes forever to implement, and it's not flexible. Many warehouses are stuck with automation systems that have become \"old iron\" after their operations changed slightly.\r\n\r\nWe train and deploy robots to automate warehouse tasks. The robot learns new tasks on the job and improves over time.\r\n\r\nInstead of writing off the automation, our robots increase in value over time.",
-    "one_liner": "Autonomous Warehouse Robots",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1769385653,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Logistics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "Netherlands",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/servo7",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
-  },
-  {
     "id": 31230,
     "name": "o11",
     "slug": "o11",
@@ -122615,11 +122704,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1765258468,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -122945,18 +123034,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a94eb8ceff47b3a9989e9c3c4f0bff0ac9c2e0a.png",
     "website": "https://beesafe.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "BeeSafe AI is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and law enforcement to intercept scammers mid-transaction and prevent victim losses.",
+    "long_description": "BeeSafe AI is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and government agencies to intercept scammers mid-transaction and prevent victim losses.",
     "one_liner": "Stopping Scams Before They Reach Your Customers",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1770327115,
     "tags": [
+      "Artificial Intelligence",
       "Security",
       "Cybersecurity",
       "Fraud Prevention",
-      "Fraud Detection",
-      "AI"
+      "Fraud Detection"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -123020,6 +123109,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moda",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
+  },
+  {
+    "id": 31253,
+    "name": "Maven",
+    "slug": "maven",
+    "former_names": [
+      "Lattice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
+    "website": "https://www.trymaven.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Infrastructure for voice-native commerce. Add secure, conversational checkout to AI agents with a single API.",
+    "one_liner": "Payment infrastructure built for voice",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770422490,
+    "tags": [
+      "Developer Tools",
+      "Fintech",
+      "SaaS",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maven",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
   },
   {
     "id": 31263,
